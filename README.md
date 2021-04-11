@@ -2,7 +2,9 @@
 
 Some Tips and Tricks about severals systems.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+![System](https://gph.is/g/EGNyWO3)
 
 ## Useful scripts
 
@@ -11,10 +13,6 @@ Some Tips and Tricks about severals systems.
 ```bat
 netsh wlan show profile name=SID key=clear
 ```
-
-## Useful links
-
-...
 
 ## Tomorrow I will learn about DevOps
 
@@ -25,10 +23,6 @@ netsh wlan show profile name=SID key=clear
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Getting started with ...
-
-...
 
 ## Contributing
 
