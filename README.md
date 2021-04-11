@@ -6,7 +6,7 @@ Some Tips and Tricks about severals systems.
 
 ![System](https://media.giphy.com/media/gI00zO3lxE01GL5m7O/giphy.gif)
 
-## Useful scripts
+## Useful script
 
 * Get Wifi key from SID
 
@@ -14,7 +14,7 @@ Some Tips and Tricks about severals systems.
 netsh wlan show profile name=SID key=clear
 ```
 
-## Tomorrow I will learn about DevOps
+## Tomorrow I will learn about ...
 
 * [Docker healthchecks](https://medium.com/better-programming/docker-healthchecks-eb744bfe3f3b)
 * [Rundeck](https://www.rundeck.com/), and several [zoo](https://github.com/rundeck/docker-zoo), or [tutorial](https://journaldunadminlinux.fr/tuto-installez-et-configurez-rundeck-ordonnanceur-opensource/)
