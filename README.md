@@ -19,6 +19,9 @@ netsh wlan show profile name=SID key=clear
 * [Docker healthchecks](https://medium.com/better-programming/docker-healthchecks-eb744bfe3f3b)
 * [Rundeck](https://www.rundeck.com/), and several [zoo](https://github.com/rundeck/docker-zoo), or [tutorial](https://journaldunadminlinux.fr/tuto-installez-et-configurez-rundeck-ordonnanceur-opensource/)
 * Apache [Airflow](http://airflow.apache.org/) and some [tutorials](https://www.youtube.com/watch?v=vvr_WNzEXBE&feature=youtu.be) (or [here](https://towardsdatascience.com/airflow-state-101-2be3846d4634))
+* [Portainer part.1](https://computerz.solutions/docker-compose-portainer/)
+* [Portainer part.2](https://computerz.solutions/docker-portainer-windows/)
+* [Traefik](https://computerz.solutions/docker-compose-traefik/)
 
 ## Build with
 
